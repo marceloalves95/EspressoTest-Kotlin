@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875445140246",
+    "project_id": "espressotestkotlin",
+    "storage_bucket": "espressotestkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875445140246:android:8ec8f805c3410071326e37",
+        "android_client_info": {
+          "package_name": "br.com.espressotest_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875445140246-j1vb29ip90ep3km5f14f1spaqqdpcs9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe1pYOYyXOSWOsJNHOQPhdXt0sGJmgWco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875445140246-j1vb29ip90ep3km5f14f1spaqqdpcs9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

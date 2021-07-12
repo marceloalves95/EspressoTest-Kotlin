@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EspressoTest-Kotlin</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="activity_main_title">Main Activity</string>
+    <string name="activity_secondary_title">Secondary Main</string>
+</resources>
